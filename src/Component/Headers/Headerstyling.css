@@ -1,0 +1,207 @@
+/* Desktop Styles */
+@media (min-width: 1025px) {
+  .header-wrapper {
+    width: Fixed (915px) px;
+    height: Hug (212px) px;
+    top: 244px;
+    left: 262px;
+    gap: 40px;
+    opacity: 0px;
+    margin-top: 200px;
+  }
+  .header-wrapper h2 {
+    font-family: Clash Display;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+    color: #2a2a2a;
+  }
+
+  .paragraph-layout {
+    width: 555px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .header-wrapper p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    padding: 0 435px;
+    color: #5a5a5a;
+  }
+  .button-layout {
+    width: Hug (699px) px;
+    height: Hug (44px) px;
+    gap: 30px;
+    opacity: 0px;
+    margin-left: 330px;
+    margin-top: 40px;
+  }
+  .headerbtn {
+    width: Hug (95px) px;
+    height: Hug (44px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    color: #5a5a5a;
+    background-color: white;
+    margin-right: 30px;
+  }
+  #tshirt-btn {
+    width: Hug (93px) px;
+    height: Hug (44px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    background-color: #0d0d0d;
+    color: white;
+    margin-right: 30px;
+  }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .header-wrapper {
+    width: Fixed (915px) px;
+    height: Hug (212px) px;
+    top: 244px;
+    left: 262px;
+    gap: 40px;
+    opacity: 0px;
+    margin-top: 200px;
+  }
+  .header-wrapper h2 {
+    font-family: Clash Display;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+    color: #2a2a2a;
+  }
+
+  .paragraph-layout {
+    width: 555px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .header-wrapper p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    padding: 0 200px;
+    color: #5a5a5a;
+  }
+  .button-layout {
+    width: Hug (699px) px;
+    height: Hug (44px) px;
+    gap: 30px;
+    opacity: 0px;
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+  .headerbtn {
+    width: Hug (95px) px;
+    height: Hug (44px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    color: #5a5a5a;
+    background-color: white;
+    margin-right: 30px;
+  }
+  #tshirt-btn {
+    width: Hug (93px) px;
+    height: Hug (44px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    background-color: #0d0d0d;
+    color: white;
+    margin-right: 30px;
+  }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .header-wrapper {
+    width: 100%;
+    height: Hug (212px) px;
+    top: 244px;
+    left: 262px;
+    gap: 40px;
+    opacity: 0px;
+    margin-top: 200px;
+  }
+  .header-wrapper h2 {
+    font-family: Clash Display;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22.49px;
+    text-align: center;
+    color: #2a2a2a;
+  }
+
+  .paragraph-layout {
+    width: 100%;
+    height: 63px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .header-wrapper p {
+    font-family: Campton;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    padding: 0 80px;
+    color: #5a5a5a;
+  }
+  .button-layout {
+    width: Hug (699px) px;
+    height: Hug (44px) px;
+    gap: 30px;
+    opacity: 0px;
+    margin-left: 35px;
+    margin-top: 30px;
+  }
+  .headerbtn {
+    width: Hug (95px) px;
+    height: Hug (44px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    color: #5a5a5a;
+    background-color: white;
+    margin-right: 20px;
+  }
+  #tshirt-btn {
+    width: Hug (93px) px;
+    height: Hug (44px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    background-color: #0d0d0d;
+    color: white;
+    margin-right: 30px;
+  }
+  #short-btn {
+    margin-left: 110px;
+    margin-top: 20px;
+  }
+  #suit-btn {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,646 @@
+/* Desktop Styles */
+@media (min-width: 1025px) {
+  .mainpage-wrapper {
+    margin-top: 50px;
+  }
+  #row2 {
+    margin-top: 30px;
+  }
+  #row3 {
+    margin-top: 30px;
+  }
+  .product-title {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #2a2a2a;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #rating {
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin-left: 22px;
+  }
+  .product-text {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-top: -10px;
+  }
+  .product-price {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    margin-top: -10px;
+  }
+  .color img {
+    margin-right: 10px;
+  }
+  .size img {
+    margin-right: 10px;
+  }
+  .action {
+    margin-right: 100px;
+  }
+  .product-box {
+    margin-left: 30px;
+  }
+  .action-box {
+    margin-top: 100px;
+  }
+  .cart-wrapper {
+    margin-top: 50px;
+  }
+  .summary h4 {
+    font-family: Clash Display;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #2a2a2a;
+  }
+  .summary-p1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .checkout-btn {
+    width: 100%;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    background-color: #0d0d0d;
+    color: #ededed;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 50px;
+  }
+  .check-icon {
+    margin-right: 15px;
+  }
+  .price {
+    font-weight: bolder;
+  }
+  .redirect-statement {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+    margin-top: 20px;
+  }
+  .checkoutdetail-wrap {
+    display: flex;
+  }
+  .info-head {
+    font-family: Clash Display;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #2a2a2a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 25x;
+  }
+  .info-p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .edit {
+    font-size: 16px;
+    color: #2a2a2a;
+    font-weight: 400;
+  }
+  .label {
+    font-family: Clash Display;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    color: #2a2a2a;
+    margin-top: 20px;
+  }
+  .input1 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: Fixed (315px) px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input2 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: Fixed (315px) px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input3 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 115px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input4 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 100px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .mastercard-logo {
+    position: absolute;
+    margin-left: -80px;
+    margin-top: 8px;
+  }
+  .checkoutdetail-wrap {
+    margin-top: 50px;
+  }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .mainpage-wrapper {
+    margin-top: 50px;
+  }
+  #row2 {
+    margin-top: 30px;
+  }
+  #row3 {
+    margin-top: 30px;
+  }
+  .product-title {
+    font-family: Clash Display;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #2a2a2a;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #rating {
+    font-family: DM Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19.2px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin-left: 22px;
+  }
+  .product-text {
+    font-family: Campton;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-top: -10px;
+  }
+  .product-price {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    margin-top: -10px;
+  }
+  .color img {
+    margin-right: 10px;
+    width: 20px;
+  }
+  .size img {
+    margin-right: 10px;
+    width: 20px;
+  }
+  .action {
+    justify-content: space-between;
+  }
+  .action {
+    margin-right: 80px;
+  }
+  .product-box {
+    margin-left: 10px;
+  }
+  .action-box {
+    margin-top: 120px;
+  }
+  .action-box img {
+    width: 25px;
+  }
+  .mobileprod {
+    font-size: 16px;
+  }
+  .cart-wrapper {
+    margin-top: 50px;
+  }
+  .summary h4 {
+    font-family: Clash Display;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #2a2a2a;
+  }
+  .summary-p1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .checkout-btn {
+    width: 100%;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    background-color: #0d0d0d;
+    color: #ededed;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 50px;
+  }
+  .check-icon {
+    margin-right: 15px;
+  }
+  .price {
+    font-weight: bolder;
+  }
+  .redirect-statement {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+    margin-top: 20px;
+  }
+  .checkoutdetail-wrap {
+    display: flex;
+  }
+  .info-head {
+    font-family: Clash Display;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #2a2a2a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .info-p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .edit {
+    font-size: 16px;
+    color: #2a2a2a;
+    font-weight: 400;
+  }
+  .label {
+    font-family: Clash Display;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    color: #2a2a2a;
+  }
+  .input1 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: Fixed (315px) px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input2 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: Fixed (315px) px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input3 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 115px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input4 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 100px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .mastercard-logo {
+    position: absolute;
+    margin-left: -80px;
+    margin-top: 8px;
+  }
+  .checkoutdetail-wrap {
+    margin-top: 50px;
+  }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .mainpage-wrapper {
+    margin-top: 50px;
+  }
+  #row2 {
+    display: none;
+  }
+  #row3 {
+    display: none;
+  }
+  .product-title {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #2a2a2a;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #rating {
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin-left: 22px;
+  }
+  .product-text {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-top: -10px;
+  }
+  .product-price {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    margin-top: -10px;
+  }
+  .product {
+    margin-bottom: 40px;
+  }
+  .color img {
+    margin-right: 10px;
+    width: 15px;
+  }
+  .size img {
+    margin-right: 10px;
+    width: 15px;
+  }
+  .action {
+    margin-right: 50px;
+  }
+  .product-box {
+    margin-left: 10px;
+  }
+  .action-box {
+    margin-top: 120px;
+  }
+  .action-box img {
+    width: 25px;
+  }
+  .mobileprod {
+    font-size: 16px;
+  }
+  .cart-wrapper {
+    margin-top: 50px;
+  }
+  .summary h4 {
+    font-family: Clash Display;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #2a2a2a;
+  }
+  .summary-p1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .checkout-btn {
+    width: 100%;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    background-color: #0d0d0d;
+    color: #ededed;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 50px;
+  }
+  .price {
+    font-weight: bolder;
+  }
+  .redirect-statement {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .check-icon {
+    display: none;
+  }
+  .info-head {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #2a2a2a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .info-p {
+    font-family: Campton;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .edit {
+    font-size: 14px;
+    color: #2a2a2a;
+    font-weight: 400;
+  }
+  .label {
+    font-family: Clash Display;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color: #2a2a2a;
+    margin-top: 20px;
+  }
+  .input1 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 220px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input2 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 220px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input3 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 115px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .input4 {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    width: 80px;
+    height: Fixed (60px) px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #dbe1e7;
+    margin-right: 20px;
+  }
+  .mastercard-logo {
+    position: absolute;
+    margin-left: -75px;
+    margin-top: 8px;
+  }
+  .checkoutdetail-wrap {
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,325 @@
+/* Desktop Styles */
+@media (min-width: 1025px) {
+  .footer-banner {
+    background-color: #0d0d0d;
+    width: 100%;
+    height: 60px;
+    top: 340px;
+    padding: 20px;
+  }
+  .fotter-content-wrapper {
+    padding: 40px 0;
+  }
+  .footer-links-wrapper h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  .social-media h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  .banner-p {
+    font-family: Campton;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #ededed;
+  }
+  .footer-h {
+    font-family: Clash Display;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #2a2a2a;
+  }
+  .footer-p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+    padding-right: 80px;
+  }
+  .footer-layout {
+    width: 400px;
+    height: 48px;
+  }
+  .sub-input {
+    width: Fixed (295px) px;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+  }
+  .sub-btn {
+    width: Fixed (170px) px;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    opacity: 0px;
+    background-color: #0d0d0d;
+    font-size: 16px;
+    color: #ededed;
+    margin-left: 30px;
+  }
+  .footer-wrapper {
+    border-top: 1px solid #dbe1e7;
+  }
+  .social-media {
+    padding-left: 80px;
+  }
+  .categories {
+    padding-left: 80qh;
+  }
+  .footer-links-wrapper h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #2a2a2a;
+  }
+  .social-media h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #2a2a2a;
+  }
+  .footer-links-wrapper p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .social-media p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .footer-banner {
+    background-color: #0d0d0d;
+    width: 100%;
+    height: 60px;
+    top: 340px;
+    padding: 20px;
+  }
+  .fotter-content-wrapper {
+    padding: 40px 0;
+  }
+  .banner-p {
+    font-family: Campton;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    color: #ededed;
+  }
+  .footer-h {
+    font-family: Clash Display;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #2a2a2a;
+  }
+  .footer-p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .footer-layout {
+    width: 400px;
+    height: 48px;
+  }
+  .sub-input {
+    width: Fixed (295px) px;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+  }
+  .sub-btn {
+    width: Fixed (170px) px;
+    height: Hug (54px) px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    opacity: 0px;
+    background-color: #0d0d0d;
+    font-size: 16px;
+    color: #ededed;
+    margin-left: 30px;
+  }
+  .footer-wrapper {
+    border-top: 1px solid #dbe1e7;
+  }
+  .social-media {
+    padding-left: 70px;
+  }
+  .categories {
+    padding-left: 30px;
+  }
+  .footer-links-wrapper h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #2a2a2a;
+  }
+  .social-media h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #2a2a2a;
+  }
+  .footer-links-wrapper p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .social-media p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .footer-banner {
+    background-color: #0d0d0d;
+    width: 100%;
+    height: 60px;
+    top: 340px;
+    padding: 20px;
+  }
+  .fotter-content-wrapper {
+    padding: 40px 0;
+  }
+  .banner-p {
+    font-family: Campton;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    color: #ededed;
+  }
+  .footer-h {
+    font-family: Clash Display;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+    color: #2a2a2a;
+  }
+  .footer-p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #5a5a5a;
+    padding: 0 80px;
+  }
+  .footer-layout {
+    width: 100%;
+    height: 48px;
+  }
+  .sub-input {
+    width: 100%;
+    height: 40px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid #5a5a5a;
+    margin-bottom: 20px;
+  }
+  .sub-btn {
+    width: 100%;
+    height: 40;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    opacity: 0px;
+    background-color: #0d0d0d;
+    font-size: 16px;
+    color: #ededed;
+  }
+  .footer-wrapper {
+    border-top: 1px solid #dbe1e7;
+  }
+  .footer-links-wrapper {
+    margin-top: 200px;
+  }
+  .footer-links-wrapper h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  .social-media h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  .footer-links-wrapper h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #2a2a2a;
+  }
+  .social-media h6 {
+    font-family: Clash Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #2a2a2a;
+  }
+  .footer-links-wrapper p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+  .social-media p {
+    font-family: Campton;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #5a5a5a;
+  }
+}
