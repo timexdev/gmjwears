@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Banner from './Component/Banner';
 import NavBar from './Component/NavBar';
 import Footer from './Component/Footer';
 import { Navigate, Route, Routes } from 'react-router-dom';
@@ -12,7 +11,6 @@ import NotFound from './Component/NotFound';
 function App() {
   return (
     <>
-      <Banner/>
       <NavBar/>
       {/* <Home/>
       <Cart/> */}
